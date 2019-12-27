@@ -1,1 +1,2 @@
 # peg-game-solver
+Remember that Cracker Barrel game that has a triangular wood block with holes for pegs, the one that no one has seen outside of Cracker Barrel yet poses an interesting mathematical problem? This program solves all solutions for the game and writes them to a file (it also reads the file to ensure there are no duplicates). The user is allowed to choose which peg is the empty peg to start with, and the program generates all possible solutions through recursive backtracking.
